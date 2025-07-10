@@ -1,8 +1,8 @@
-Expense Tracker CLI (Go)
+# Expense Tracker CLI (Go)
 A simple command-line expense tracker built in Go.
 It helps you log, view, and manage your daily expenses with categorized summaries — all stored locally in a JSON file.
 
-Features
+# Features
 Add new expenses with description, amount, and category
 
 View all expenses with dates and totals
@@ -13,7 +13,7 @@ View expense totals by category
 
 Automatically saves to a local expenses.json file
 
-How to Run
+#How to Run
 1. Clone the Repo
 bash
 Copy
