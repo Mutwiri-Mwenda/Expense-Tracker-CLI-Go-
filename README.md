@@ -16,7 +16,7 @@ Automatically saves to a local expenses.json file
 # How to Run
 1. Clone the Repo
 bash
-git clone https://github.com/your-username/expense-tracker-cli.git
+git clone https://github.com/Mutwiri-Mwenda/Expense-Tracker-CLI-Go-.git
 cd expense-tracker-cli
 2. Build and Run
 bash
