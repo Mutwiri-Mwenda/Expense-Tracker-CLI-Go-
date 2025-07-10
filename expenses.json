@@ -1,0 +1,33 @@
+{
+  "Expenses": [
+    {
+      "ID": 1,
+      "Description": "Entertainment",
+      "Amount": 200,
+      "Category": "Food",
+      "Date": "2025-07-10T20:57:49.150315+03:00"
+    },
+    {
+      "ID": 3,
+      "Description": "Booking.com",
+      "Amount": 15.63,
+      "Category": "Vacation",
+      "Date": "2025-07-10T20:59:52.129753+03:00"
+    },
+    {
+      "ID": 4,
+      "Description": "KPLC Units",
+      "Amount": 12,
+      "Category": "Energy",
+      "Date": "2025-07-10T21:00:46.333757+03:00"
+    },
+    {
+      "ID": 5,
+      "Description": "SGR",
+      "Amount": 10,
+      "Category": "Transport",
+      "Date": "2025-07-10T21:01:08.099504+03:00"
+    }
+  ],
+  "NextID": 6
+}
