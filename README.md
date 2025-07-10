@@ -16,26 +16,18 @@ Automatically saves to a local expenses.json file
 #How to Run
 1. Clone the Repo
 bash
-Copy
-Edit
 git clone https://github.com/your-username/expense-tracker-cli.git
 cd expense-tracker-cli
 2. Build and Run
 bash
-Copy
-Edit
 go run main.go
 Or build a binary:
 
 bash
-Copy
-Edit
 go build -o tracker
 ./tracker
 Sample Output
 bash
-Copy
-Edit
 Welcome to your Personal Expense Tracker!
 
 Expense Tracker
@@ -46,21 +38,24 @@ Expense Tracker
 4. View by category
 5. Exit
 Choose an option (1-5):
-Data Storage
+# Data Storage
+
 All data is stored in expenses.json in the current directory. This allows you to:
 
 Resume tracking where you left off
 
 View/edit the raw file manually if needed
 
-Built With
+# Built With
+
 Go – standard libraries only (no dependencies)
 
 JSON for persistent local storage
 
 CLI-based UI
 
-Future Improvements
+# Future Improvements
+
 Monthly reports
 
 Edit existing expenses
