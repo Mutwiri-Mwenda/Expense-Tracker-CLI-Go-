@@ -13,7 +13,7 @@ View expense totals by category
 
 Automatically saves to a local expenses.json file
 
-#How to Run
+# How to Run
 1. Clone the Repo
 bash
 git clone https://github.com/your-username/expense-tracker-cli.git
